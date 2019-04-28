@@ -1,0 +1,13 @@
+[package]
+name = "torrent-app"
+version = "0.1.0"
+authors = ["brian <brianmatindi12@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+url = "1.7.2"
+laminar = "0.2"
+dns-lookup = "1.0.0"
+bytes = "0.4.12"
+rand = "*"
+resolve = "0.2.0"
